@@ -81,3 +81,7 @@ For each job in the list of Job Applications, JOSH will allow the user to mainta
 1. Jan 13th | Replied to email | Email
 1. Jan 14th | Received a phone call from Bob Smith confirming the interview date and time | Phone call
 1. Jan 21st | Interview | In-Person
+
+---
+
+[Database Diagram](JOSH Database Diagram.pdf)
