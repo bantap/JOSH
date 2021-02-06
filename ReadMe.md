@@ -3,7 +3,7 @@
 
 ---
 
-<div align="end> Paul Banta </div>
+<span align="end> Paul Banta </span> <br />
 MSSA CAD <br />
 January, 2021
 
