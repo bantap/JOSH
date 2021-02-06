@@ -4,8 +4,8 @@
 ---
 
 <div align="end"> Paul Banta </div>
-MSSA CAD <br />
-January, 2021
+<div align="end"> MSSA CAD </div>
+<div align="end"> January, 2021 </div>
 
 ---
 
