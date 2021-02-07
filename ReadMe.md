@@ -1,9 +1,4 @@
-<table>
-  <tr>
-    <td> # JOb Search Helper (JOSH) </td>
-    <td> Paul Banta </td>
-  </tr>
-</table>
+# JOb Search Helper (JOSH)
 
 ### An 18-Week Web Application Project in ASP.NET MVC Core for MSSA
 
@@ -15,9 +10,7 @@
 
 ---
 
-### JOb Search Helper (JOSH)
-
-#### ➪ Introduction
+### ➪ Introduction
 
 The JOb Search Helper website was originally conceived as a Job Search Records web application.
 After a little thought, a slight rename seemed to be in order.
@@ -35,7 +28,7 @@ This will include keeping track of future interactions such as upcoming intervie
 
 ---
 
-#### ➪ Organize
+### ➪ Organize
 
 **Application Helper**
 
@@ -71,7 +64,7 @@ A Resume, with all of it's elegant formatting (layout, fonts, etc.), is best wri
 
 ---
 
-#### ➪ Thorough (follow-through, persistent, nothing falls through the cracks)
+### ➪ Thorough (follow-through, persistent, nothing falls through the cracks)
 
 **List Of Job Applications**
 
@@ -90,4 +83,4 @@ For each job in the list of Job Applications, JOSH will allow the user to mainta
 
 ---
 
-[Database Diagram-m-m-m-m](JOSHDatabaseDiagram.pdf)
+[Database Diagram](JOSH%20Database%20Diagram.pdf)
