@@ -1,12 +1,11 @@
-# JOb Search Helper (JOSH)
-
-### An 18-Week Web Application Project in ASP.NET MVC Core for MSSA
-
----
-
 <div align="end"> Paul Banta </div>
 <div align="end"> MSSA CAD </div>
 <div align="end"> January, 2021 </div>
+
+---
+
+<div align="center"> <h1> JOb Search Helper <em>(JOSH)</em> </h1> </div>
+<div align="center"> <h3> An 18-Week Web Application Project in ASP.NET MVC Core for MSSA </h3> </div>
 
 ---
 
