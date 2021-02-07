@@ -1,4 +1,10 @@
-# JOb Search Helper (JOSH)
+<table>
+  <tr>
+    <td> # JOb Search Helper (JOSH) </td>
+    <td> Paul Banta </td>
+  </tr>
+</table>
+
 ### An 18-Week Web Application Project in ASP.NET MVC Core for MSSA
 
 ---
