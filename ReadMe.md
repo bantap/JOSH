@@ -82,7 +82,4 @@ For each job in the list of Job Applications, JOSH will allow the user to mainta
 
 ---
 
-[Database Diagram](JOSH%20Database%20Diagram.pdf)
-
-[Google](https://www.google.com)
-
+[Database Diagram](JOSH%20Database%20Diagram%20(2).pdf)
