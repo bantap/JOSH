@@ -266,4 +266,6 @@ CREATE TABLE Salary
 -- ToDo: Add some INSERT(s) & SELECT(s)
 ```
 
+---
+
 [Back](ReadMe.md)
